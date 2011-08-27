@@ -1,0 +1,6 @@
+﻿Will have to make sure wheter the limit of 100 whenever stream.readstring16() really is necessary.
+Used in, for example, the ChatMessage and Disconnect packet. Cause incoming messages can be longer
+than 100 chars I thought.
+
+
+PlayerBlockPlacementPacket -> Write -> Item

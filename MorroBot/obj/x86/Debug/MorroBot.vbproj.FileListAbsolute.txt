@@ -1,0 +1,14 @@
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\bin\Debug\MorroBot.exe.config
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\bin\Debug\MorroBot.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\bin\Debug\MorroBot.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\bin\Debug\MorroBot.xml
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\Morrolan.MorroBot.frmMorroBot.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\Morrolan.MorroBot.Resources.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\MorroBot.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\MorroBot.xml
+C:\Users\Michael\documents\visual studio 2010\Projects\MorroBot\MorroBot\obj\x86\Debug\MorroBot.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\MorroBot\MorroBot\bin\Debug\MorroBotLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\MorroBot\MorroBot\bin\Debug\MorroBotLibrary.pdb

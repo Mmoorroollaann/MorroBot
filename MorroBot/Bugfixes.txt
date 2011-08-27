@@ -1,0 +1,2 @@
+﻿14.05.2011 15:10
+	Fixed the EntityTeleport packet using doubles for the coordinates instead of integers.
